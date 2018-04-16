@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view_chat"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/linearchat"
+        app:layoutManager="LinearLayoutManager" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:id="@+id/linearchat"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+
+        android:background="@color/white"
+
+        >
+
+
+        <EditText
+            android:id="@+id/edit_text_message"
+            android:layout_width="324dp"
+            android:layout_height="wrap_content"
+
+            android:layout_margin="@dimen/margin_small"
+
+            android:hint="@string/type_a_message"
+            android:imeOptions="actionSend"
+
+            android:inputType="textAutoCorrect"
+
+            android:padding="@dimen/padding_small" />
+
+        <ImageButton
+            android:id="@+id/send_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_send_black_24dp"
+            android:background="@color/white"
+
+            android:padding="10dp"
+            android:layout_margin="10dp"
+
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="@dimen/space_big"
+            android:layout_marginLeft="@dimen/space_big"
+            android:layout_alignParentEnd="true" />
+
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>

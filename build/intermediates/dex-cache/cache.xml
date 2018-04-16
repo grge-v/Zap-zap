@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\d8527902e67ef4ad013678192248c6a87cfbfd2e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_e2f8dbe3b4a8372d52da6d56b4dbcf8efc7526e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_4848c14920414088e06c36e1b8d464c4d658e4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\3cc1b936a7893fe7bb4fb030249865182870be1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_e6a46b4a54b53d8e194ee3082ddacbff1d15e1f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\7863ee48a17467984dea650e793eee7eac5f3761\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_bbc1cb3a27bc5e6cc8f8caea3cf57e3f857bd43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\994760f69d4f62501a1374c788a179504eca1bd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_606cbeaf62d849535e0c38ccc05ae3d6dcae36ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\ec44f3235040627adcac30ec8f2498fca8198740\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_e9a2efe5edddb535df7884504a01ed077869afa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_192a2ced22b7f2295a3f84afd993b0e9560daff8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\47b5c2944d55da696df8aad19771353a222c666d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_3e1d58aea946ee4b26be5f40c40c428284adcabf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\cd165bc3fab310e6ed8ee993bcda7eb2dd0b3dd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_2d70acdfff4218848a0a40399c6c89367a674c58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\okio-1.13.0_2ffffe5c9122b2045e5a29c1625aa8fd87f0b549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_e7226b06b2ea6e3d90a0b917f5a519af63c5c885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\cba977861c09f38944b454864f1f3bb0da201817\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_439760c25674b9a4a52479ddf5050834cc1fbad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\03a8a11ee1081ae2c45a8e483c2931251de77858\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_263893459fe80ae57b729d81d3c97f6956422ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\3ed8b6303e487f4fd413f48b717d5792f4e7e2fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_8434877638bd396b75d6c360cb9603a3383334fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\5741a6d85486283ca42ce8b4f4f2d0d6983f4b8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_d11224e0462a71764abcaf19f8c8238ebae01069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b5d35dabe7bdde140364eff854955e00026d28cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\64ad6379a74dfea94d17d072802ea8070a011439\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_2674a6ccb51ca5d2b6fb331e9c9aba51943feb06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\8dfb0cf6036fa518756fc5593c748413ec7900db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_346293fba270e20566824502baac9d327aafaa5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\350352c338040e84ded4ce5c8f113e777b99f6eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_a06cab20504d32c5b72dac13d4b1a70f30dc8df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\e4322cf6f59ef649cb55afeb0fb681f9fd59bc9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_c44e89a453edbeffdc27f5b6c4f715a658d2aa38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\ca834f17a36586acad930de2e6f3814d1d731212\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_85dc82ded06d3c7e87ad29768a7f1fe4b070217a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\5787caa7df0f913192a25c6f81285b9c44ad813c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_979ba398dfc60c12ff241ee76ab26ae2afa4c643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\b0957cdea8352c1afd243609d69715864a433879\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_dd68d26cfb2d4bbf53c40714be01c09150131f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\f0c8a1c9b956e0759a9fa53eda1bc8c151ef54c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_93dd79500bc29d2e22f9a1b01815d0f681252e5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\458ef3bec5eb3750d4a79ebd9fc46169d89cd470\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_24df9929a1f0e4cd6f2fd50147cc23aacbc5f652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\4e1c66e3938922cea56b9304490f8d00e50d0ca1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_053f45dc3564e9ca3d72edf6ece9b29b793bc1d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\c184efbe84aaa049db141e0205ab3994fac28e46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_189bdf649ea6cf935743268a4139f4b6b27bb0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\71757526e8428010b0d03a12f94e47389d4af360\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_30bb3bc58cca0e0e8d07f04ab2aefb5c7e7799c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_49bf94bbc51db0e7afe9b02979d1c79742472c1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\2efed8ad406b065ec820377aac751904cbbd45c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_90309f66ea04d49e2a579af33cabce1be2eb6950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\George\.android\build-cache\f58dfb79d6bcaf7606809cfdc36e5fe291f3ddc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\George\AndroidStudioProjects\Zap-zap\app\build\intermediates\pre-dexed\debug\classes_9d00e027d333a41fb78f243c4f974999da57d478.jar" />
+    </item>
+
+</items>

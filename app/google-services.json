@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345020803602",
+    "firebase_url": "https://zap-zap-93862.firebaseio.com",
+    "project_id": "zap-zap-93862",
+    "storage_bucket": "zap-zap-93862.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345020803602:android:d576176f3f936b94",
+        "android_client_info": {
+          "package_name": "com.example.george.zap_zap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345020803602-cfqcenfr6ohu9kvbgrr7qgvbvuvb2eqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.george.zap_zap",
+            "certificate_hash": "461feb85619a7d23e88c6d992acf904162815a93"
+          }
+        },
+        {
+          "client_id": "345020803602-n61dnoh8r5ittu4n7gqebfcbfiqmc6jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPI0muQRmrTf320tcdLur1zWvCfX0gKg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345020803602-n61dnoh8r5ittu4n7gqebfcbfiqmc6jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

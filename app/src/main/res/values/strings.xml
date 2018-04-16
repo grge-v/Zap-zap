@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Zap-zap</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="login_register">Нажмите для регистрации !</string>
+    <string name="register">Зарегестрироваться</string>
+
+    <string name="user_successfully_added">Регистрация прошла успешно</string>
+    <string name="user_unable_to_add">Unable to add user!</string>
+    <string name="adding_user_to_db">Пользователь добавлен в базу</string>
+    <string name="loading">Загрузка</string>
+    <string name="please_wait">Подождите</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Ваше сообщение</string>
+    <string name="action_logout">Выход</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Выйти</string>
+    <string name="are_you_sure">Вы уверены?</string>
+    <string name="cancel">Отмена</string>
+</resources>
